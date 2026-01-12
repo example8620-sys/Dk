@@ -1,0 +1,5 @@
+{
+  "name": "SMT-ERP Dashboard",
+  "description": "A professional school management ERP dashboard featuring student management, fee tracking, and AI-powered financial insights using Gemini.",
+  "requestFramePermissions": []
+}
